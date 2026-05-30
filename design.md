@@ -1,6 +1,6 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
-# Marxophone Design Study
+# Marxophone L2 Design Study
 
 ## Concept
 
@@ -21,6 +21,17 @@ return, key feel, bridge coupling, and soundboard response.
 The packet does not assert any exact scale length, string gauge, course count,
 pitch map, spring rate, hammer mass, key travel, DXF coordinate, or acoustic
 target. Those values need bench tests before they can become build authority.
+
+## L2 Subsystem Plan
+
+| subsystem | L2 candidate direction | authority | promotion evidence needed |
+| --- | --- | --- | --- |
+| String bed | Treat the instrument as a fretless zither-family string bed until measured string response exists. | pending_measurement | String material, course layout, bridge coupling, and tuning policy selected from tests or references. |
+| Hammer action | Use replaceable spring-hammer action coupons before full action layout. | pending_measurement | Rebound consistency, noise, wear, and controllability logs from coupon trials. |
+| Player interface | Keep keys, tabs, and levers open as interface options. | concept_only | Ergonomic trial notes and selected actuation strategy. |
+| Resonator body | Keep soundboard/body construction open until string and hammer load behavior are tested. | pending_measurement | Soundboard coupon response, bridge load review, and body bracing plan. |
+| Damping/noise control | Treat damping as an optional branch for controlling mechanism noise. | concept_only | Decision whether damping is needed after hammer-action tests. |
+| Documentation | Record every future CAD, DXF, measurement, or render artifact in the authority register. | concept_only | Reviewed source rows and provenance for any promoted artifact. |
 
 ## Parametric Intent
 
@@ -46,6 +57,19 @@ Future measured design tables should vary:
    stable action envelope.
 5. Promote only measured and reviewed data into future tuning, CAD, DXF, or
    fabrication authority.
+
+## L2 Review Checklist
+
+- Choose the smallest action coupon that can test hammer tip material, spring
+  return, pivot behavior, and player feel without a full instrument layout.
+- Separate string-bed tests from hammer-action tests so tuning and tremolo
+  behavior are not conflated.
+- Decide whether the first interface study uses keys, tabs, levers, or a
+  neutral actuator.
+- Define the evidence log needed for rebound consistency, action noise, string
+  wear, and subjective control before any CAD promotion.
+- Keep all current rows at `concept_only` or `pending_measurement` until
+  measured templates or reviewed CAD exist.
 
 ## Authority Boundary
 
