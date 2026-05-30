@@ -1,7 +1,8 @@
 artifact_id,path,artifact_kind,role,authority,derived_from,dimension_claim,fabrication_required,notes
-MARX-README-001,README.md,design_table,design_table,concept_only,,none,false,"L1 packet overview; no fabrication dimensions, action geometry, or measured tuning authority."
+MARX-README-001,README.md,design_table,design_table,concept_only,,none,false,"L2 packet overview; no fabrication dimensions, action geometry, or measured tuning authority."
 MARX-DESIGN-001,design.md,design_table,design_table,pending_measurement,README.md,none,true,"Concept mechanism and measurement plan for fretless zither body, string courses, spring hammer arms, and tremolo behavior."
 MARX-BOM-001,bom.csv,design_table,design_table,pending_measurement,design.md,none,true,"Estimated subsystem/material list only; quantities and specifications require measurement and sourcing."
+MARX-CUT-001,cut-list.csv,measurement_template,measurement_template,pending_measurement,design.md,none,false,"Planning cut-list for coupons/modules only; no dimensions or fabrication authority."
 MARX-CAD-LOG-001,cad/mcp-session-log.md,cad,cnc_reference,concept_only,README.md,none,false,"Provenance stub recording QMD Step 0 and that no MCP/CAD/DXF session was run."
 MARX-DECISION-001,decision-record.md,design_table,design_table,pending_measurement,design.md,none,true,"Concept decisions and open questions; all build-critical choices remain pending measurement."
-MARX-VISREG-001,visual-output-register.csv,design_table,design_table,concept_only,README.md,none,false,"Authority ledger for the L1 packet; all artifacts remain concept_only or pending_measurement."
+MARX-VISREG-001,visual-output-register.csv,design_table,design_table,concept_only,README.md,none,false,"Authority ledger for the L2 packet; all artifacts remain concept_only or pending_measurement."
