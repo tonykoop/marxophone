@@ -1,0 +1,10 @@
+item_id,subsystem,item,authority,estimate_status,notes
+BODY-001,resonator,zither-style body and soundboard,pending_measurement,estimate_concept,"Soundboard material, bracing, bridge load, and body form require prototype tests."
+STRING-001,stringing,fretless string courses,pending_measurement,estimate_material_family,"Gauge, material, course count, pitch map, tension, and speaking length remain unmeasured."
+BRIDGE-001,stringing,bridge and termination hardware,pending_measurement,estimate_concept,"Bridge geometry and coupling must be tested before fabrication use."
+HAMMER-001,action,spring-mounted hammer arms,pending_measurement,estimate_mechanism,"Arm material, pivot, mass, stiffness, and contact geometry require action coupon trials."
+TIP-001,action,replaceable hammer tips,pending_measurement,estimate_material_family,"Tip hardness and shape must be measured against tremolo tone and string wear."
+SPRING-001,action,spring return system,pending_measurement,estimate_mechanism,"Spring style and rate remain open until rebound tests exist."
+KEY-001,interface,key or lever actuation,pending_measurement,estimate_concept,"Travel, leverage, and player feel require ergonomic and mechanical tests."
+MUTE-001,control,optional damping or mute materials,concept_only,estimate_option,"Optional noise-control study; no damping target specified."
+TEST-001,validation,recording and action measurement setup,pending_measurement,estimate_test_need,"Needed before promoting tuning, tremolo, or action claims."
