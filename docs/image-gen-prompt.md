@@ -1,19 +1,19 @@
-# Image Generation Prompt
+# Image-Gen Prompts
 
-Concept visualization only; not fabrication authority.
+Concept image only; not fabrication authority. Do not include cut-ready dimensions, hole locations, or toolpaths.
 
 ## Hero Prompt
 
-Photorealistic 3/4 studio product photograph of a Marxophone-inspired fretless zither prototype with a shallow resonant wooden body, parallel string courses, and a row of spring-mounted metal hammer arms actuated by keys or tabs. Show the hammer arms hovering over selected string courses, replaceable hammer tips, small return springs, bridge and soundboard coupling, and an accessible action rail for adjustment. Warm wood body, brushed metal arms, simple dark keys or levers, clean studio background, soft directional lighting, tabletop scale cues, about a 50mm lens, high detail, photorealistic.
+A photorealistic 3/4 product photograph of a finished Marxophone-inspired fretless zither resting on a tabletop, its silhouette a shallow flat-topped resonant wooden body with a spread of parallel undamped string courses running its length. The instantly recognizable feature is the bank of slender spring-mounted metal hammer arms arranged along one edge above selected string courses, each arm tipped with a small replaceable contact head and held by a fine return spring, poised to rebound and brush the strings for a tremolo attack. A row of simple dark keys or levers sits beneath the arms as the playing interface, and a low bridge couples the strings to the soundboard. Warm satin-finished wood body, brushed and bare metal arms and springs, a plain unmarked soundboard with no rosette text, realistic tabletop scale cues. Clean neutral studio background, soft directional studio light, roughly a 50mm lens, high detail, photorealistic, no text labels.
 
 ## In-Context Prompt
 
-Photorealistic workshop scene of a one-course Marxophone action coupon beside a partial zither body, with a builder pressing a lever so a spring hammer rebounds against a string. Natural light, spare springs and hammer tips on the bench, focus on tremolo-like rebound testing, string wear, and mechanism noise control.
+A photorealistic workshop scene of a one-course Marxophone action coupon set beside a partial zither body on a wooden bench, with a builder's hand pressing a lever so a single spring hammer arm rebounds against one string course mid-tremolo. Spare return springs and interchangeable hammer tips lie on the bench beside a notebook of test logs. Natural window light, shallow depth of field, environmental storytelling about rebound testing, string wear, and mechanism-noise control, concept visualization only.
 
-## Detail / Macro Prompt
+## Detail Prompt
 
-Macro photorealistic close-up of a spring-mounted hammer arm just touching a string course, showing the pivot, return spring, replaceable hammer tip, bridge edge, and adjacent unfretted strings with shallow depth of field and crisp metal texture.
+A macro close-up of a single spring-mounted hammer arm at the instant its replaceable tip just touches an undamped string course, showing the pivot point, the fine return spring under slight tension, the bare metal arm, the low bridge edge, and the adjacent parallel strings. Raking light grazes across the brushed metal and the string windings, high detail in the spring coils and contact tip, no measurements.
 
 ## Negative / Avoid
 
-No text, no watermarks, no frets, no motorized tremolo, no impossible spring geometry, no random uncontrolled hammer clutter, no fake antique brand name.
+No text/logos/watermarks/fake maker marks or antique brand names, no dimension callouts, no frets or fretboard, no motorized tremolo, no impossible spring geometry or uncontrolled hammer clutter; anatomically plausible hands if a player is shown.
