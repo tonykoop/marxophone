@@ -6,3 +6,5 @@ MARX-CUT-001,cut-list.csv,measurement_template,measurement_template,pending_meas
 MARX-CAD-LOG-001,cad/mcp-session-log.md,cad,cnc_reference,concept_only,README.md,none,false,"Provenance stub recording QMD Step 0 and that no MCP/CAD/DXF session was run."
 MARX-DECISION-001,decision-record.md,design_table,design_table,pending_measurement,design.md,none,true,"Concept decisions and open questions; all build-critical choices remain pending measurement."
 MARX-VISREG-001,visual-output-register.csv,design_table,design_table,concept_only,README.md,none,false,"Authority ledger for the L2 packet; all artifacts remain concept_only or pending_measurement."
+MARX-WL-STARTER-001,marxophone-starter.wl,design_table,design_table,reference_only,,none,false,"Wolfram source entry point authored by hand; computes no fabrication dimensions."
+MARX-WL-MODEL-001,wolfram/marxophone-wolfram-model.wl,design_table,design_table,reference_only,marxophone-starter.wl,none,false,"Wolfram 14.3 parametric string/spring-hammer model; all physical inputs are estimate placeholders pending measurement."
