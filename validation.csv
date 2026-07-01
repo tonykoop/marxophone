@@ -1,0 +1,9 @@
+check_id,subsystem,check,target,measured,status,authority,notes
+VAL-001,stringing,dry string-bed response (pre-action),TBD,,pending,pending_measurement,"Record dry response before adding a hammer action (design.md Measurement Plan step 2)."
+VAL-002,action,hammer rebound consistency,TBD,,pending,pending_measurement,"Compare across spring and tip options on the one-course coupon."
+VAL-003,action,attack density / decay / rattle,TBD,,pending,pending_measurement,"Separate useful tremolo from mechanism rattle."
+VAL-004,action,player control across soft/medium/strong,TBD,,pending,pending_measurement,"Subjective control log; no target claimed."
+VAL-005,stringing,string wear under repeated contact,TBD,,pending,pending_measurement,"Tip hardness/shape vs. wear."
+VAL-006,resonator,soundboard coupon response,TBD,,pending,pending_measurement,"Bridge load review + bracing plan before body build."
+VAL-007,interface,actuation travel/leverage/feel,TBD,,pending,pending_measurement,"After interface strategy selected."
+VAL-008,safety,tensioned-string + spring test checklist complete,pass,,pending,pending_measurement,"Required before load trials (bom.csv SAFETY-001)."
