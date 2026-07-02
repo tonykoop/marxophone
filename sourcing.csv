@@ -1,0 +1,8 @@
+item_id,subsystem,item,spec_basis,supplier_direction,authority,notes
+SRC-001,resonator,zither soundboard stock,pending_measurement,spec-first search after soundboard coupon selects species/thickness,pending_measurement,"No species, thickness, or grade selected; live prices not verified."
+SRC-002,stringing,fretless string set,pending_measurement,select gauges/material from string-response tests then match a stringmaker set,pending_measurement,"Gauge, material family, course count, and tension all unmeasured."
+SRC-003,stringing,bridge and termination hardware,pending_measurement,source after bridge coupon fixes geometry,pending_measurement,"Bridge geometry/coupling pending tests."
+SRC-004,action,spring-return components,pending_measurement,source spring samples for rebound trials,pending_measurement,"Spring style/rate/preload open until coupon data exists."
+SRC-005,action,hammer arm + tip stock,pending_measurement,buy sample stock for interchangeable action coupons,pending_measurement,"Arm material/mass/stiffness and tip material selected during trials."
+SRC-006,interface,key/tab/lever hardware,pending_measurement,defer until interface strategy chosen,pending_measurement,"Interface choice open (keys/tabs/levers)."
+SRC-007,validation,measurement + recording setup,pending_measurement,tuner, load scale, high-speed capture for rebound logs,pending_measurement,"Needed before promoting tuning/tremolo/action claims."

@@ -39,6 +39,12 @@ before any CAD, DXF, tuning chart, or fabrication template exists.
 - `cut-list.csv` - pending-measurement coupon and fixture planning surface.
 - `visual-output-register.csv` - V5 authority register.
 - `cad/mcp-session-log.md` - QMD and no-MCP/no-CAD provenance.
+- `cad/marxophone.scad` - parametric OpenSCAD master (generic review envelope: fretless zither soundbox + string band + schematic spring-hammer action).
+- `sourcing.csv` - spec-first sourcing directions (pending measurement).
+- `validation.csv` - coupon/action validation checks (targets TBD).
+- `risks.md` - qualitative L2 risk register.
+- `drawing-brief.md` - required first drawings and authority notes.
+- `evolution/` - evolution-pipeline Stage 0 intake (design intent, master manifest, revisions).
 - `decision-record.md` - design choices, unknowns, and promotion gates.
 
 ## Status Boundary

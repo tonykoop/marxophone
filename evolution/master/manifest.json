@@ -1,0 +1,34 @@
+{
+  "product": "marxophone",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "rev-A (pre-commit intake, 2026-07-01)",
+  "generated": "2026-07-01",
+  "cad_masters": [
+    {
+      "path": "cad/marxophone.scad",
+      "format": "openscad-source",
+      "sha256": "cee9a26a516202018f6aea147443089a296df63fb85bb908431fdcf59429839a",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "GENERIC REVIEW ENVELOPE (fretless zither soundbox + string band + schematic spring-hammer action). Traces to NO measured design table; all values prototype_assumption; no spring force model."
+    },
+    {
+      "path": "design.md",
+      "format": "design-table",
+      "sha256": "38173ea6544e37c11e1e61ac09d438152b1973db9ad6412eafadf92e9f8edbc8",
+      "authority": "pending_measurement",
+      "lossy": false,
+      "notes": "L2 concept + measurement plan. Keeps every build-critical value at concept_only / pending_measurement. No dimensional authority."
+    },
+    {
+      "path": "wolfram/marxophone-wolfram-model.wl",
+      "format": "wolfram-source",
+      "sha256": "c0dc5b69820d4d45a1ab0f59dde4ec6b1cddb1a99dfa70d950f16a7a49f69098",
+      "authority": "derived_preview",
+      "lossy": false,
+      "notes": "String/spring-hammer explorer; source-only (not executed). All physical inputs estimate placeholders. L2 evidence."
+    }
+  ],
+  "notes": "OpenSCAD envelope master + design.md concept are the current masters; NO measured design table exists, so the master is a review envelope only, not fabrication authority. No STEP export. Gate A (Alpha workspace compile) not yet run. Product is an L2 concept packet pending coupon/action bench evidence."
+}
